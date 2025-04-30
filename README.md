@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone https://github.com/satwik12-dev/Hospital-Management-.git
 ```
 
 ## Contributing
